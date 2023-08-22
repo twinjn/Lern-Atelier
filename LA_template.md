@@ -1,25 +1,25 @@
-# Grob-Planung
+Grob-Planung
 
-✍️ Fügen Sie hier Ihren Namen ein
+✍️ Twin
 
-✍️ Fügen Sie hier ein, welchen Zeitrahmen diese Grob-Planung abdeckt
+✍️ Bis zu den Herbstferien
 
 ## Leit-Satz
 
-✍️ Beschreiben Sie in einigen wenigen Sätzen (50 bis 100 Wörter), was Sie in diesem Zeitrahmen bearbeiten möchten, und warum. Was möchten Sie besonders üben oder lernen? Warum denken Sie, dass sich Ihr Projekt oder Ihre Übungen sich dazu eignen?
+✍️Ich möchte ein Fitness App programmieren, welches mir denn Weg und den Pace berechnen
 
-## Arbeitspakete für dd.mm.yyyy
+## Arbeitspakete für 29.08.2023
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
 - [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
 
-| Vorbereitung             | Eingabe | Erwartete Ausgabe |
-| ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
+| Vorbereitung | Eingabe | Erwartete Ausgabe |
+| --- | --- | --- |
+| Programm in VS gestartet | `Nico` | `Hallo Nico` |
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Ein Programm, welches mir Witze sammelt
+- [ ] Ein Programm, welches mir die Pause auf dem Computer anzeigtl.
+- [ ] Ich möchte ein Fitness App programmieren, welches mir denn Weg und den Pace berechnen
 
-✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
