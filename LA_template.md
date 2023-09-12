@@ -28,8 +28,15 @@ Ich habe heute gelernt, wie man einen Taschenrechner programmiert. Zu Beginn hat
 
 ## Arbeitspakete für 05.09.2023
 
-- [ ] Nochmals die Grundlagen anschauen was Variablen sind und verstehen und sie auch dann anwenden können ohne Tutorial
-- [ ] Ein Ratespiel, Also bis man die richtige Zahl rausgefunden hat.
-- [ ] Ein Programm, welches mir ein Zufälliges Passwort wiedergibt.(Passwortgenerator)
+- [x] Nochmals die Grundlagen anschauen was Variablen sind und verstehen und sie auch dann anwenden können ohne Tutorial
+- [x] Ein Ratespiel, Also bis man die richtige Zahl rausgefunden hat.
+- [x] Ein Programm, welches mir ein Zufälliges Passwort wiedergibt.(Passwortgenerator)
 
+Heute habe ich durch Videos gelernt, wie man richtig programmiert, und am Anfang habe ich ein einfaches Ratespiel programmiert. Bei der Erstellung eines Passwortgenerators hatte ich anfangs Schwierigkeiten, da die Variable 'random' nicht wie erwartet funktioniert hat. Danach lief jedoch alles reibungslos.
+
+## Arbeitspakete für 12.09.2023 
+
+- [ ] Ein Programm, mit der Benutzer Wörter nachschlagen können und deren Bedeutung anzeigt.
+- [ ] Ein Ratespiel, Also bis man die richtige Zahl rausgefunden hat.
+- [ ] Ein Programm, welche mir paar Quiz Fragen stellen, bis man etwas bestimmtes geschafft hat.
 
