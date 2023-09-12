@@ -18,9 +18,9 @@ Grob-Planung
 | --- | --- | --- |
 | Programm in VS gestartet | `Nico` | `Hallo Nico` |
 
-- [ x] Ein Programm, welches mir Witze sammelt
-- [ x] Ein Taschenrechner
-- [ x] Ich möchte ein Fitness App programmieren, welches mir denn Weg und den Pace berechnen
+- [x] Ein Programm, welches mir Witze sammelt
+- [x] Ein Taschenrechner
+- [x] Ich möchte ein Fitness App programmieren, welches mir denn Weg und den Pace berechnen
 
 ✍️ Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
 
