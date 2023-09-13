@@ -36,7 +36,10 @@ Heute habe ich durch Videos gelernt, wie man richtig programmiert, und am Anfang
 
 ## Arbeitspakete für 12.09.2023 
 
-- [ ] Ein Programm, mit der Benutzer Wörter nachschlagen können und deren Bedeutung anzeigt.
-- [ ] Ein Ratespiel, Also bis man die richtige Zahl rausgefunden hat.
-- [ ] Ein Programm, welche mir paar Quiz Fragen stellen, bis man etwas bestimmtes geschafft hat.
+- [x] Ein Programm, mit der Benutzer Wörter nachschlagen können und dass es deren Bedeutung anzeigt.
+- [x] Ein Ratespiel, Also bis man die richtige Zahl rausgefunden hat.
+- [x] Ein Programm, welche mir paar Quiz Fragen stellen, bis man etwas bestimmtes geschafft hat.
 
+Heute hatte ich keine Schwierigkeiten, da ich allmählich verstanden habe, wie es funktioniert. Beim Ratespiel mit der Zahl hatte ich kaum Probleme, da es ähnlich wie ein Passwortgenerator funktioniert und daher viel einfacher ist.
+
+## Arbeitspakete für 19.09.2023 
