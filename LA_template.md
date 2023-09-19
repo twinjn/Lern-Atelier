@@ -43,3 +43,13 @@ Heute habe ich durch Videos gelernt, wie man richtig programmiert, und am Anfang
 Heute hatte ich keine Schwierigkeiten, da ich allmählich verstanden habe, wie es funktioniert. Beim Ratespiel mit der Zahl hatte ich kaum Probleme, da es ähnlich wie ein Passwortgenerator funktioniert und daher viel einfacher ist.
 
 ## Arbeitspakete für 19.09.2023 
+- [x] Ein Spieleprogramm, wie Hangmann je nach Schwierigkeit.
+- [x] Ein Umrechner, der Kilos in Gramm umrechnet.
+- [x] Bei Moodle den Arbeitspaket 431 noch nachholen.
+
+Heute habe ich zuerst mit Moodle begonnen, da ich Schwierigkeiten hatte und Unterstützung von Freunden benötigte. Danach habe ich ein Programm zum Umrechnen geschrieben. Zuerst habe ich es alleine versucht, aber da ich nicht genau wusste, wie ich es machen sollte, habe ich bei ChatGPT nachgeschaut.
+
+## Arbeitspakete für 26.09.2023 
+- [ ] Das Spiel Tic-Tac-Toe Mit Tutorial wenn ich nicht weiter komme.
+- [ ] Ein Würfel der bis 6 geht
+- [ ] Bei Moodle noch den Arbeitspaket 319 nnachholen.
